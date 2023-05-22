@@ -8,6 +8,16 @@
 
 config_version=4
 
+_global_script_classes=[ {
+"base": "ParallaxBackground",
+"class": "Background",
+"language": "GDScript",
+"path": "res://scripts/env/background.gd"
+} ]
+_global_script_class_icons={
+"Background": ""
+}
+
 [application]
 
 config/name="Dawn Forest"
